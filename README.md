@@ -13,4 +13,4 @@ Followed these steps:
 
 5. Show the Result
 
-6. Visualization Monthly Champange from 1964 to 1972 and next 9 months
+6. Visualize Monthly Champange from 1964 to 1972 and next 9 months
